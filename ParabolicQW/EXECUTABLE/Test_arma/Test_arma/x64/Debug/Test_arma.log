@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\77swi\source\repos\ParabolicQW\ParabolicQW\EXECUTABLE\Test_arma\Test_arma\main.cpp(28,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\77swi\source\repos\ParabolicQW\ParabolicQW\EXECUTABLE\Test_arma\Test_arma\main.cpp(29,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Test_arma.vcxproj -> C:\Users\77swi\source\repos\ParabolicQW\ParabolicQW\EXECUTABLE\Test_arma\x64\Debug\Test_arma.exe

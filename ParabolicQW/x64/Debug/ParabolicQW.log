@@ -1,0 +1,7 @@
+﻿  Hamiltionian.cpp
+C:\Users\77swi\source\repos\ParabolicQW\ParabolicQW\Hamiltionian.cpp(33,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\77swi\source\repos\ParabolicQW\ParabolicQW\Hamiltionian.cpp(133,8): warning C4102: 'repeat': unreferenced label
+C:\Users\77swi\source\repos\ParabolicQW\ParabolicQW\Hamiltionian.cpp(232,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\77swi\source\repos\ParabolicQW\ParabolicQW\Hamiltionian.cpp(455,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Hamiltionian.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ParabolicQW.vcxproj -> C:\Users\77swi\source\repos\ParabolicQW\x64\Debug\ParabolicQW.exe

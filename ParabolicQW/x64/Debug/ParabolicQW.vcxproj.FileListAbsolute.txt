@@ -1,0 +1,3 @@
+C:\Users\77swi\source\repos\ParabolicQW\ParabolicQW\x64\Debug\ParabolicQW.MyForm.resources
+C:\Users\77swi\source\repos\ParabolicQW\ParabolicQW\x64\Debug\ParabolicQW.vcxproj.GenerateResource.cache
+C:\Users\77swi\source\repos\ParabolicQW\ParabolicQW\x64\Debug\ParabolicQW.vcxprojAssemblyReference.cache
